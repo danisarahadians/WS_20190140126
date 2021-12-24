@@ -4,6 +4,7 @@
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>data.mhs.pws.a.Datamahasiswa</class>
     <class>pws.a.mahasiswa.pws.a.mahasiswa126.Datamahasiswa</class>
+    <class>pws.a.mahasiswa.pws.a.mahasiswa126.DataMahasiswa</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/dbmahasiswa?zeroDateTimeBehavior=CONVERT_TO_NULL"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
